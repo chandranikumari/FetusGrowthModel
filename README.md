@@ -14,7 +14,7 @@ This is supporting data and code for Chandrani Kumari, Gautam I Menon, Leelavati
 
 `Gompertz_Optimization+Plots.ipynb`: figure 2 and figure 3 in manuscript + hypergeometric test.
 
-`Prediction_LR.ipynb`: birth weight prediction using linear regression
+`BWPrediction_LR.ipynb`: birth weight prediction using linear regression
 
 `BWPrediction_plot.ipynb`: plots figures related to birth weight prediction
 
