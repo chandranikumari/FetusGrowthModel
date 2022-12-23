@@ -6,7 +6,7 @@ This is the supporting information for the manuscript titled "A predictive model
 
 2. validationCohort.csv ------Validation set
 
-3. python file named "FetusGrowth_BWPrediction.py" contains all the functions used for the analysis.
+3. python file named {\bf FetusGrowth_BWPrediction.py} contains all the functions used for the analysis.
 
 4. "Gompertz_Optimization.ipynb" fits "Seethapathy cohort" to Gompertz equation and get the optimized value of global variable $t_0$, $c$ and $A$ for each fetus.
 5. "Gompertz_Optimization+Plots.ipynb" plots figure 2 and figure 3 in manuscript and also did the hypergeomtric test.
