@@ -16,5 +16,5 @@ This is supporting data and code for Chandrani Kumari, Gautam I Menon, Leelavati
 
 `Prediction_LR.ipynb`: birth weight prediction using linear regression
 
-`BWPridiction_plot.ipynb`: plots figures related to birth weight prediction
+`BWPrediction_plot.ipynb`: plots figures related to birth weight prediction
 
