@@ -1,4 +1,4 @@
-This is supporting data and code for Chandrani Kumari, Gautam I Menon, Leelavati Narlikar, Uma Ram, Rahul Siddharthan, “A predictive model of a growing fetus”. The following files are included
+This is supporting data and code for Chandrani Kumari, Gautam I Menon, Leelavati Narlikar, Uma Ram, Rahul Siddharthan, “A predictive model of a growing fetus”, [medRxiv:10.1101/2022.12.22.22283844](https://www.medrxiv.org/content/10.1101/2022.12.22.22283844v1). The following files are included
 
 ### Data
 
