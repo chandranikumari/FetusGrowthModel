@@ -4,7 +4,7 @@ This is supporting data and code for Chandrani Kumari, Gautam I Menon, Leelavati
 
 `seethapathyCleanedData.csv`: Seethapathy cohort data. Patient IDs have been replaced with random IDs, and some maternal data has been removed in the interest of anonymity.
 
-`validationCohort.csv`: Validation cohort data. Patient IDs have been replaced with random IDs, Only ultrasound is included.
+`validationCohort.csv`: Validation cohort data. Patient IDs have been replaced with random IDs. Only ultrasound, GA at delivery and birthweight are included.
 
 ### Code and Jupyter notebooks
 
