@@ -1,10 +1,9 @@
-# FetusGrowthModel
+This is supporting data and code for Chandrani Kumari, Gautam I Menon, Leelavati Narlikar, Uma Ram, Rahul Siddharthan, “A predictive model of a growing fetus”. The following files are included
 
-This is the supporting information for the manuscript titled **A predictive model of a growing fetus**. The descriptions of each file used for plotting, optimization, and predictions are provided below.
 
-1. **seethapathyCleanedData.csv** ---- "Seethapathy cohort"
+`seethapathyCleanedData.csv`: Seethapathy cohort data. Patient IDs have been replaced with random IDs, and some maternal data has been removed in the interest of anonymity.
 
-2. **validationCohort.csv** ------Validation set
+`validationCohort.csv`: Validation cohort data. Patient IDs have been replaced with random IDs, Only ultrasound is included.
 
 3. python file named **FetusGrowth_BWPrediction.py** contains all the functions used for the analysis.
 
