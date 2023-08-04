@@ -6,6 +6,8 @@ This is supporting data and code for Chandrani Kumari, Gautam I Menon, Leelavati
 
 `validationCohort.csv`: Validation cohort data. Patient IDs have been replaced with random IDs. Only ultrasound, GA at delivery and birthweight are included.
 
+#### *If using any of these data, please cite the above manuscript.*
+
 ### Code and Jupyter notebooks
 
 `FetusGrowth_BWPrediction.py`: function definitions used in the notebooks
